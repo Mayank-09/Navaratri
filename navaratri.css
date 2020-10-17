@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@400;600&display=swap');
+
+#navaratri{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    background-color: black;
+}
+
+.div{
+background-color: white;
+display: inline-block;
+padding: 10px 0px;
+}
+
+p{
+    font-size: 25px;
+}
+
+span{
+    font-weight: bold;
+    color: slateblue;
+}
+
+.by{
+    background-color:blue;
+    color: red;
+     font-size: 20px;
+     border-radius: 20%;
+  
+}
+
+.para1{
+    color:gray;
+    font-weight: bold;
+}
+
+.para2{
+    color:red;
+    font-weight: bold;
+}
+
+.para3{
+    color:blue;
+    font-weight: bold;
+}
+
+.para4{
+    color:green;
+    font-weight: bold;
+}
+
+.para5{
+    color:purple;
+    font-weight: bold;
+}
+
+.para6{
+    color:orange;
+    font-weight: bold;
+}
+
+.para7{
+    color:chocolate;
+    font-weight: bold;
+}
+
